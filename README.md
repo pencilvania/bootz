@@ -11,9 +11,11 @@
 
 I use dependency Injection and repository pattern in this project .
 
-take a look to DB design in **DBDesign.png** at root
+take a look to DB design in **DBDesign.png** at root.
 
-can see any error log in app\logs folder
+for FE, I used a bootstrap template.
+
+can see any error log in app\logs folder.
 
 ## Important files
 
