@@ -1,0 +1,80 @@
+[01-Apr-2021 20:24:24 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('dist/css/adminl...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:24:28 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('dist/css/adminl...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:24:28 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:24:46 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('dist/css/adminl...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:33 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:34 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:46 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:49 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:50 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:53 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:25:55 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:26:37 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:26:47 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:26:57 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:27:01 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:27:39 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:27:50 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:27:54 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:28:09 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
+[01-Apr-2021 20:28:30 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\wamp64\www\bootz\public\index.php(41): Core\Router->dispatch('plugins/datatab...')
+#1 {main}
+Thrown in 'C:\wamp64\www\bootz\Core\Router.php' on line 130
