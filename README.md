@@ -17,6 +17,11 @@ for FE, I used a bootstrap template.
 
 can see any error log in app\logs folder.
 
+## Implemented features
+1. dashboard with orders, customer , total Revenue and chart with date range
+2. list of orders 
+3. add customer form
+
 ## Important files
 
 * Entities
